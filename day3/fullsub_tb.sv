@@ -52,10 +52,5 @@ task stimulus();
 		
 	end
 endtask
-
-//end simulation
-initial begin
-	#200 $finish;
-end
 	
 endmodule
