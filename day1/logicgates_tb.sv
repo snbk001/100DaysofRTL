@@ -35,8 +35,4 @@ task stimulus();
 	end
 endtask
 
-initial begin
-	#200 $finish;
-end
-
 endmodule
