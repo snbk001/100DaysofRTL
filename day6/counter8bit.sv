@@ -1,4 +1,4 @@
-`timescale 1ns/1ps
+//8bit counter
 module counter8bit(
 	clk,
 	reset,
