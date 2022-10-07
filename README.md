@@ -8,3 +8,4 @@
 4. [day4 - Encoder](https://github.com/snbk001/100DaysofRTL/tree/main/day4)
 5. [day5 - D FlipFlop](https://github.com/snbk001/100DaysofRTL/tree/main/day5)
 6. [day6 - 8 bit Counter](https://github.com/snbk001/100DaysofRTL/tree/main/day6)
+7. [day7 - Binary to onehot encoder](https://github.com/snbk001/100DaysofRTL/tree/main/day7)
