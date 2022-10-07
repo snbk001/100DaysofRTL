@@ -4,7 +4,7 @@ TIME = $$(date +'%Y%m%d-%H%M%S')
 TOOLCMD = iverilog -o sim.vvp
 
 help:	
-	@echo "Logic Gates"
+	@echo "Full Subtractor"
 	
 compile: clean
 	$(TOOLCMD) -s $(PROG) $(PROG).sv halfsub.sv
