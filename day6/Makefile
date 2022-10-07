@@ -4,7 +4,7 @@ TIME = $$(date +'%Y%m%d-%H%M%S')
 TOOLCMD = iverilog -o sim.vvp
 
 help:	
-	@echo "D Flip Flop"
+	@echo "8 bit Counter"
 	
 compile: clean
 	$(TOOLCMD) -s $(PROG) $(PROG).sv
