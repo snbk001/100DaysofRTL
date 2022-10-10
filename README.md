@@ -11,3 +11,4 @@
 7. [day7 - Binary to onehot encoder](https://github.com/snbk001/100DaysofRTL/tree/main/day7)
 8. [day8 - LFSR](https://github.com/snbk001/100DaysofRTL/tree/main/day8)
 9. [day9 - Custom Counter](https://github.com/snbk001/100DaysofRTL/tree/main/day9)
+10. [day10 - Mux using case](https://github.com/snbk001/100DaysofRTL/tree/main/day10)
