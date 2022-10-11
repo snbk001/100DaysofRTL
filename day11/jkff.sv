@@ -13,7 +13,7 @@ input logic i_j;
 input logic i_k;
 output logic o_q;
 
-always @ (posedge clk or negedge reset)
+always_ff @ (posedge clk or negedge reset)
 	begin
 		if (reset)
 			o_q <= 1'b0;
