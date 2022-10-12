@@ -13,3 +13,4 @@
 9. [day9 - Custom Counter](https://github.com/snbk001/100DaysofRTL/tree/main/day9)
 10. [day10 - Mux using case](https://github.com/snbk001/100DaysofRTL/tree/main/day10)
 11. [day11 - JK FlipFlop](https://github.com/snbk001/100DaysofRTL/tree/main/day11)
+12. [day12 - T FlipFlop](https://github.com/snbk001/100DaysofRTL/tree/main/day12)
