@@ -1,14 +1,14 @@
 //Testbench for Signed Magnitude adder
 module signed_mag_adder_tb ();
 
-    parameter WIDTH = 4;
+   	  parameter WIDTH = 4;
 	  logic [WIDTH-1:0] i_a;
 	  logic [WIDTH-1:0] i_b;
 	  logic [WIDTH-1:0] o_sum;
 
 signed_mag_adder #(.WIDTH(4)) dut (
 	  .i_a(i_a),
-    .i_b(i_b),
+    	  .i_b(i_b),
 	  .o_sum(o_sum)
 	);
 
@@ -30,7 +30,7 @@ end
 task stimulus;
 	begin
 	  i_a = $random;
-    i_b = $random;#10;
+    	  i_b = $random;#10;
 	end
 endtask
 
