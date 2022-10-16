@@ -23,7 +23,7 @@ initial begin
 	  repeat(10)
 		begin
 		  stimulus();
-			$display("i_a: %0b, i_b: %0b, o_sum: %0b", i_a, i_b, o_sum);
+		  $display("i_a: %0b, i_b: %0b, o_sum: %0b", i_a, i_b, o_sum);
 		end
 end
 
