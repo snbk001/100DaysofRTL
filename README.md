@@ -17,3 +17,4 @@
 13. [day13 - Positive egde detection](https://github.com/snbk001/100DaysofRTL/tree/main/day13)
 14. [day14 - Priority encoder](https://github.com/snbk001/100DaysofRTL/tree/main/day14)
 15. [day15 - Barrel shifter](https://github.com/snbk001/100DaysofRTL/tree/main/day15)
+16. [day16 - Signed Magnitude adder](https://github.com/snbk001/100DaysofRTL/tree/main/day16)
