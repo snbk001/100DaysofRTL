@@ -19,3 +19,4 @@
 15. [day15 - Barrel shifter](https://github.com/snbk001/100DaysofRTL/tree/main/day15)
 16. [day16 - Signed Magnitude adder](https://github.com/snbk001/100DaysofRTL/tree/main/day16)
 17. [day17 - Free Running Counter](https://github.com/snbk001/100DaysofRTL/tree/main/day17)
+18. [day18 - Mod-m Counter](https://github.com/snbk001/100DaysofRTL/tree/main/day18)
