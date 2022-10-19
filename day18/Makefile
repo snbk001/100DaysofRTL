@@ -4,7 +4,7 @@ TIME = $$(date +'%Y%m%d-%H%M%S')
 TOOLCMD = iverilog -o sim.vvp
 
 help:	
-	@echo "Free Running Counter"
+	@echo "Mod-m Counter"
 	
 compile: clean
 	$(TOOLCMD) -s $(PROG) $(PROG).sv
