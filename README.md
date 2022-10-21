@@ -21,3 +21,5 @@
 17. [day17 - Free Running Counter](https://github.com/snbk001/100DaysofRTL/tree/main/day17)
 18. [day18 - Mod-m Counter](https://github.com/snbk001/100DaysofRTL/tree/main/day18)
 19. [day19 - Edge Detector with Moore](https://github.com/snbk001/100DaysofRTL/tree/main/day19)
+20. [day20 - Edge Detector with Mealy](https://github.com/snbk001/100DaysofRTL/tree/main/day20)
+21. [day21 - 2 to 4 binary decoder](https://github.com/snbk001/100DaysofRTL/tree/main/day21)
