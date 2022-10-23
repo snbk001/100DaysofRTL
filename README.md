@@ -23,3 +23,5 @@
 19. [day19 - Edge Detector with Moore](https://github.com/snbk001/100DaysofRTL/tree/main/day19)
 20. [day20 - Edge Detector with Mealy](https://github.com/snbk001/100DaysofRTL/tree/main/day20)
 21. [day21 - 2 to 4 binary decoder](https://github.com/snbk001/100DaysofRTL/tree/main/day21)
+22. [day22 - Dual(Rising & Falling) edge detector](https://github.com/snbk001/100DaysofRTL/tree/main/day22)
+23. [day23 - alu](https://github.com/snbk001/100DaysofRTL/tree/main/day23)
