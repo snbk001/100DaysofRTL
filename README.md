@@ -25,3 +25,4 @@
 21. [day21 - 2 to 4 binary decoder](https://github.com/snbk001/100DaysofRTL/tree/main/day21)
 22. [day22 - Dual (Rising & Falling) edge detector](https://github.com/snbk001/100DaysofRTL/tree/main/day22)
 23. [day23 - alu](https://github.com/snbk001/100DaysofRTL/tree/main/day23)
+24. [day24 - Sequence Detector 1101](https://github.com/snbk001/100DaysofRTL/tree/main/day24)
