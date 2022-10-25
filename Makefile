@@ -1,10 +1,10 @@
-PROG = seqdet_ol
+PROG = "Program Name"
 TIME = $$(date +'%Y%m%d-%H%M%S')
 
 TOOLCMD = iverilog -o sim.vvp
 
 help:	
-	@echo "Sequence Detector 1101 mealy overlap"
+	@echo "Display related to the program"
 	
 compile: clean
 	$(TOOLCMD) -s $(PROG) $(PROG).sv
