@@ -25,4 +25,7 @@
 21. [day21 - 2 to 4 binary decoder](https://github.com/snbk001/100DaysofRTL/tree/main/day21)
 22. [day22 - Dual (Rising & Falling) edge detector](https://github.com/snbk001/100DaysofRTL/tree/main/day22)
 23. [day23 - alu](https://github.com/snbk001/100DaysofRTL/tree/main/day23)
-24. [day24 - Sequence Detector 1101](https://github.com/snbk001/100DaysofRTL/tree/main/day24)
+24. [day24 - Sequence Detector 1101 mealy nonoverlap](https://github.com/snbk001/100DaysofRTL/tree/main/day24)
+25. [day25 - Sequence Detector 1101 mealy overlap](https://github.com/snbk001/100DaysofRTL/tree/main/day25)
+26. [day26 - Sequence Detector 1101 moore nonoverlap](https://github.com/snbk001/100DaysofRTL/tree/main/day26)
+27. [day27 - Sequence Detector 1101 moore overlap](https://github.com/snbk001/100DaysofRTL/tree/main/day27)
