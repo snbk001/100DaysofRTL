@@ -32,5 +32,5 @@
 28. [day28 - Binary to Gray Converter](https://github.com/snbk001/100DaysofRTL/tree/main/day28)
 29. [day29 - Sequential Multiplier](https://github.com/snbk001/100DaysofRTL/tree/main/day29)
 30. [day30 - Single port RAM](https://github.com/snbk001/100DaysofRTL/tree/main/day30)
-31. [day31 - Parallel in parallel out (PIPO)](https://github.com/snbk001/100DaysofRTL/tree/main/day32)
-32. [day32 - Up down counter](https://github.com/snbk001/100DaysofRTL/tree/main/day31)
+31. [day32 - Parallel in parallel out (PIPO)](https://github.com/snbk001/100DaysofRTL/tree/main/day32)
+32. [day31 - Up down counter](https://github.com/snbk001/100DaysofRTL/tree/main/day31)
