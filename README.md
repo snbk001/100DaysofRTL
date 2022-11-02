@@ -29,3 +29,7 @@
 25. [day25 - Sequence Detector 1101 mealy overlap](https://github.com/snbk001/100DaysofRTL/tree/main/day25)
 26. [day26 - Sequence Detector 1101 moore nonoverlap](https://github.com/snbk001/100DaysofRTL/tree/main/day26)
 27. [day27 - Sequence Detector 1101 moore overlap](https://github.com/snbk001/100DaysofRTL/tree/main/day27)
+28. [day28 - Binary to Gray Converter](https://github.com/snbk001/100DaysofRTL/tree/main/day28)
+29. [day29 - Sequential Multiplier](https://github.com/snbk001/100DaysofRTL/tree/main/day29)
+30. [day30 - Single port RAM](https://github.com/snbk001/100DaysofRTL/tree/main/day30)
+31. [day31 - Up down counter](https://github.com/snbk001/100DaysofRTL/tree/main/day31)
