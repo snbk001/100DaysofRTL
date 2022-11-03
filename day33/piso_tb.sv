@@ -33,9 +33,9 @@ end
 initial begin
 	reset = 1'b1;@(posedge clk);
 	reset = 1'b0;#10;
-    p_in = 8'b11010010;#10;
-    load = 1'b1;#10;
-    load = 1'b0;
+    	p_in = 8'b11010010;#10;
+    	load = 1'b1;#10;
+    	load = 1'b0;
 end
 
 //end simulation
