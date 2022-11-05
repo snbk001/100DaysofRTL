@@ -34,4 +34,5 @@
 30. [day30 - Single port RAM](https://github.com/snbk001/100DaysofRTL/tree/main/day30)
 31. [day31 - Up down counter](https://github.com/snbk001/100DaysofRTL/tree/main/day31)
 32. [day32 - Parallel in parallel out (PIPO)](https://github.com/snbk001/100DaysofRTL/tree/main/day32)
-33. 
+33. [day33 - Parallel in serial out (PISO)](https://github.com/snbk001/100DaysofRTL/tree/main/day33)
+34. [day34 - Serial in parallel out (SIPO)](https://github.com/snbk001/100DaysofRTL/tree/main/day34)
